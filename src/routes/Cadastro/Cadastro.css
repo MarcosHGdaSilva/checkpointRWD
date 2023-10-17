@@ -1,0 +1,28 @@
+
+.formCadastro{
+    width: 500px;
+    height: 400px;
+    margin: 0px 275px;
+    border-radius: 20px;
+    align-items: center;
+    background-color:#333 ;
+}
+.fieldCadastro{
+    color: white;
+}
+.campo{
+    width: 250px;
+    height: 25px;
+    margin: 25px 0px;
+    font-size: larger;
+}
+.botao{
+    width: 150px;
+    height: 30px;
+    font-size: large;
+    background-color: red;
+    border-radius: 20px;
+}
+:hover.botao{
+    background-color: brown;
+}

@@ -1,0 +1,113 @@
+[
+
+  {
+
+    "id"          : "1",
+    "modelo"        : "Brasilia",
+    "distribuidora"       : "volkswagen",
+    "lancamento"        : "1973",
+    "motor"   : "1.584 cm3",
+    "descricao"   : "A Brasília foi um carro produzido pela Volkswagen do Brasil entre 1973 e 1982. Este carro compacto se tornou um ícone na história automobilística brasileira.Seu design foi inovador para sua época, apresentando linhas retas e uma forma mais quadrada em comparação com outros carros. Seu estilo minimalista e funcional se tornou reconhecível instantaneamente. Inicialmente equipada com um motor de 1,6 litros e 4 cilindros refrigerado a ar, semelhante ao motor do Fusca. Posteriormente, uma versão mais potente com um motor 1,6 litros a água foi lançada. O desempenho era modesto, mas o carro era conhecido por ser robusto e confiável."
+
+  },
+
+  {
+
+    "id"          : "2",
+    "modelo"        : "Chevette",
+    "distribuidora"       : "Chevrolet",
+    "lancamento"        : "1973",
+    "motor"   : "1.4",
+    "descricao"   : "O Chevrolet Chevette foi um modelo de carro compacto produzido pela General Motors no Brasil. Ele foi introduzido no mercado brasileiro em 1973 e permaneceu em produção até o início dos anos 1990.O Chevrolet Chevette tinha um design simples e compacto, típico dos carros da década de 1970. Ele estava disponível nas versões sedã de quatro portas, cupê de duas portas e perua. Inicialmente, era equipado com motores de quatro cilindros e 1.4 litros, oferecendo desempenho modesto e boa economia de combustível. Mais tarde, houve variações com motores mais potentes, incluindo um motor 1.6 litros"
+
+  },
+
+  {
+
+    "id"          : "3",
+    "modelo"        : "Monza",
+    "distribuidora"       : "Chevrolet",
+    "lancamento"        : "1982",
+    "motor"   : " 1.8",
+    "descricao"   : "O Chevrolet Monza foi um carro de grande sucesso produzido pela General Motors (GM) no Brasil. O Monza foi lançado no país em 1982 e permaneceu em produção até meados da década de 1990. Aqui estão algumas características gerais do Chevrolet Monza. O Monza tinha um design moderno para a época, com linhas aerodinâmicas e uma carroceria de três volumes. Ele estava disponível em versões sedã de quatro portas, hatchback de duas portas e perua. O Monza oferecia uma variedade de opções de motores ao longo de sua produção. Os motores incluíam opções de quatro e seis cilindros, com destaque para os motores 1.6, 1.8 e 2.0 litros. Isso proporcionava uma ampla gama de desempenho, desde versões econômicas até modelos mais potentes."
+
+  },
+
+  {
+
+    "id"          : "4",
+    "modelo"        : "Opala",
+    "distribuidora"       : "Chevrolet",
+    "lancamento"        : "1968",
+    "motor"   : " 4.1, de seis cilindros",
+    "descricao"   : "O Chevrolet Opala foi um automóvel icônico produzido pela General Motors do Brasil entre os anos 1968 e 1992. Este carro é lembrado como um dos veículos mais emblemáticos da história automobilística brasileira. O Opala tinha um design de carroceria clássico, com linhas suaves e elegantes, que lembravam alguns carros da década de 1960. Ele estava disponível em versões sedã de quatro portas, cupê de duas portas e perua. Uma das características mais marcantes do Opala era seu motor de seis cilindros em linha. Inicialmente, ele era equipado com motores de 4.1 litros, mas ao longo de sua produção, houve variações de motorização, como o 2.5 litros. Isso proporcionava um desempenho significativamente superior em relação aos concorrentes da época."
+
+  },
+
+  {
+
+    "id"          : "5",
+    "modelo"        : "Fusca",
+    "distribuidora"       : "volkswagen",
+    "lancamento"        : "1959",
+    "motor"   : " motor boxe",
+    "descricao"   : "O Volkswagen Fusca é um dos carros mais icônicos e reconhecíveis da história do automóvel. O Fusca é conhecido pelo seu design distinto e arredondado. Ele tem linhas suaves e curvas, com destaque para as aletas traseiras que eram uma característica marcante. O carro era compacto e tinha uma forma aerodinâmica que era avançada para a época. O motor do Fusca era um motor refrigerado a ar de quatro cilindros opostos, posicionado na traseira do veículo. Inicialmente, ele tinha uma capacidade cúbica de 1,2 litros, mas ao longo dos anos, houve variações que aumentaram a capacidade para 1,3, 1,5 e 1,6 litros."
+
+  },
+
+  {
+
+    "id"          : "6",
+    "modelo"        : "Gol Quadrado",
+    "distribuidora"       : "volkswagen",
+    "lancamento"        : "1975",
+    "motor"   : "1.3 e 1.6 ",
+    "descricao"   : "O Volkswagen Gol Quadrado é uma versão específica do Volkswagen Gol, um modelo de carro compacto produzido pela Volkswagen do Brasil. A designação quadrado refere-se ao estilo de design retangular e anguloso da segunda geração do Volkswagen Gol, produzida entre 1987 e 1995. O Gol Quadrado é notável pelo seu design retangular e ângulos nítidos, que se destacavam em relação à primeira geração do Gol, que tinha um design mais arredondado. O carro era disponível nas versões de duas e quatro portas. O Gol Quadrado estava disponível com uma variedade de opções de motor, incluindo motores de 1.0, 1.6 e 1.8 litros. Isso oferecia diferentes níveis de desempenho e economia de combustível para os compradores."
+
+  },
+
+  {
+
+    "id"          : "7",
+    "modelo"        : "ford ka",
+    "distribuidora"       : "ford",
+    "lancamento"        : "2001",
+    "motor"   : "TI-VCT 1.0 ",
+    "descricao"   : "O Ford Ka é um modelo de carro compacto produzido pela Ford desde o final da década de 1990. É um veículo popular e acessível, conhecido por seu tamanho compacto e eficiência. O Ford Ka é conhecido por seu design compacto e contemporâneo, com linhas suaves e curvas que lhe dão uma aparência moderna e amigável. Está disponível nas versões hatchback de três ou cinco portas, bem como em algumas versões sedã, como o Ka Sedan. O Ford Ka oferece uma variedade de opções de motor, incluindo motores a gasolina e diesel, bem como versões com motorização mais econômica e outras mais esportivas. Os motores geralmente variam de 1.0 a 1.5 litros, dependendo do modelo e da geração"
+
+  },
+
+  {
+
+    "id"          : "8",
+    "modelo"        : "kombi",
+    "distribuidora"       : "volkswagen",
+    "lancamento"        : "1960",
+    "motor"   : " 1.4 flexível ",
+    "descricao"   : "A Volkswagen Kombi, também conhecida como Type 2 em alguns mercados, é uma das vans mais icônicas da história automobilística. Ela foi produzida pela Volkswagen e, ao longo dos anos, passou por várias gerações e atualizações.A Kombi é notável pelo seu design distintivo, com uma carroceria em forma de caixa e um para-brisa dianteiro inclinado. Ela é frequentemente associada a uma estética retrô e vintage. A Kombi foi equipada com uma variedade de motores ao longo de sua história, incluindo motores refrigerados a ar e, mais tarde, motores refrigerados a água. Ela não era conhecida por seu desempenho, mas sim por sua confiabilidade. "
+
+  },
+
+  {
+
+    "id"          : "9",
+    "modelo"        : "uno escada",
+    "distribuidora"       : "fiat",
+    "lancamento"        : "2010",
+    "motor"   : " Firefly 1.0 de três cilindros e Firefly 1.3 de quatro cilindros. ",
+    "descricao"   : "O Fiat Uno, também conhecido como Uno Escada ou Uno de Escada, é uma modificação não oficial do Fiat Uno que se tornou popular em algumas regiões do Brasil, especialmente na década de 1990.  A característica mais notável do Fiat Uno Escada é o porta-malas estendido, que possui degraus que lembram uma escada, permitindo o acesso a uma área de carga mais alta. Essa modificação era frequentemente feita para aumentar a capacidade de transporte de mercadorias ou materiais volumosos.  Devido à capacidade de carga estendida, o Uno Escada era frequentemente utilizado por pequenos comerciantes, como ambulantes e vendedores de mercadorias diversas. Isso o tornou uma escolha popular para aqueles que precisavam de um veículo de carga pequeno. "
+
+  },
+
+  {
+
+    "id"          : "10",
+    "modelo"        : "kwid",
+    "distribuidora"       : "renault",
+    "lancamento"        : "2017",
+    "motor"   : " 1.0 de 70 cv",
+    "descricao"   : "O Renault Kwid é um carro compacto fabricado pela Renault, originalmente lançado na Índia em 2015 e posteriormente disponibilizado em outros mercados ao redor do mundo. Aqui estão algumas características gerais do Renault Kwid. O Renault Kwid é conhecido por seu design compacto e distintivo. Ele apresenta linhas suaves e curvas que lhe conferem uma aparência moderna e amigável. O carro é geralmente classificado como um crossover urbano devido ao seu visual mais robusto em comparação com outros carros compactos. O Kwid é equipado com motores de três cilindros e capacidade cúbica variável, dependendo do mercado e da geração. As opções de motor geralmente variam de 0,8 a 1,0 litros, oferecendo um equilíbrio entre economia de combustível e desempenho adequado para um veículo urbano."
+
+  }
+
+]
